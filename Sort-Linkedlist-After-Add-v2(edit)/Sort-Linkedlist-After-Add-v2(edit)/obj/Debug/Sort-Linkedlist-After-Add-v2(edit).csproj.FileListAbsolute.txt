@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\bin\Debug\Sort-Linkedlist-After-Add-v2(edit).exe.config
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\bin\Debug\Sort-Linkedlist-After-Add-v2(edit).exe
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\bin\Debug\Sort-Linkedlist-After-Add-v2(edit).pdb
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\obj\Debug\Sort-Linkedlist-After-Add-v2(edit).csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\obj\Debug\Sort-Linkedlist-After-Add-v2(edit).csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\obj\Debug\Sort-Linkedlist-After-Add-v2(edit).csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\obj\Debug\Sort-Linkedlist-After-Add-v2(edit).exe
+D:\kia prjc\tamrin\Sort-Linkedlist-After-Add-v2(edit)\Sort-Linkedlist-After-Add-v2(edit)\obj\Debug\Sort-Linkedlist-After-Add-v2(edit).pdb
